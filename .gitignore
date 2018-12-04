@@ -1,0 +1,4 @@
+.dir-locals.el
+.idea
+.DS_store
+*.iml
